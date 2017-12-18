@@ -1,3 +1,6 @@
+# Adobe Host File for Pi-Hole, etc.
+# taken from https://www.reddit.com/r/Piracy/comments/50v0aa/all_adobe_domains_that_need_to_be_blocked_in_hosts/
+
 127.0.0.1 192.150.14.69
 127.0.0.1 192.150.18.101
 127.0.0.1 192.150.18.108
@@ -13,6 +16,7 @@
 127.0.0.1 209.34.83.67:43
 127.0.0.1 209.34.83.67:443
 127.0.0.1 209.34.83.73
+127.0.0.1 209.34.83.73:43
 127.0.0.1 209.34.83.73:443
 127.0.0.1 3dns-1.adobe.com
 127.0.0.1 3dns-2.adobe.com

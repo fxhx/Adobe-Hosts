@@ -1,6 +1,7 @@
 # Adobe Host File for Pi-Hole, etc.
 # taken from https://www.reddit.com/r/Piracy/comments/50v0aa/all_adobe_domains_that_need_to_be_blocked_in_hosts/
 
+
 127.0.0.1 192.150.14.69
 127.0.0.1 192.150.18.101
 127.0.0.1 192.150.18.108
